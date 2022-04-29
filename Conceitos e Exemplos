@@ -1,0 +1,19 @@
+1) ARQUITETURA CLIENTE-SERVIDOR
+   É uma arquitetura onde o processamento é dividido em partes distintas, uma responsável pela manutenção da informação(servidor) e outra pela aquisição dos dados(cliente). 
+   Essa abordagem separa os processos em plataformas independetes que interagem, permitindo que os recursos sejam compartilhados enquanto se obtém o máximo
+   de benefício de cada dispositivo distinto.
+   
+   CLIENTE -> Solicitam um  determinado serviço, enviando uma mensagem ao servidor.
+   SERVIDOR -> Executam a tarefa solicitada e enviam uma resposta ao cliente representa os dados solicitados.
+   
+   
+   
+2) SISTEMA OPERACIONAL PARA SERVIDORES
+É um software desenvolvido para servir como plataforma que ira gerenciar o sistema e que deve ser definido com que cada aplicação precisa.
+
+EX: O Ubuntu Server é um sistema operacional open source específico para servidores que integra a gama de distribuições do Ubuntu desenvolvida pela Canonical, como
+Ubuntu Desktop, Ubuntu Cloud e Ubuntu Core.
+A proposta do Ubuntu é oferecer um sistema que qualquer pessoa possa utilizar sem dificuldades, independentemente de nacionalidade, nível de conhecimento ou limitações
+físicas. O sistema deve ser constituído principalmente por software livre e deve também ser isento de qualquer taxa.
+
+3) 
